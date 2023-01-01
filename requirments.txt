@@ -2,3 +2,7 @@ Flask
 numpy
 tensorflow 
 keras
+pickle
+sys
+os
+werkzeug
